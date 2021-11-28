@@ -14,6 +14,7 @@ Makita battery adapter -- https://www.amazon.com/dp/B086S47GZG
 
 3D printed case (STL, STEP, and Fusion360 files provided in this repo)
 
+I had to pop apart the battery adapter from Amazon, cut a hole in the blue part, and reroute some smaller wires through the hole instead of routing them out the side as in the original adapter.  I tried to find open-source CAD for the adapter, and was not able to find it, so am just using the part from Amazon for now.
 
 
 ![alt text](https://github.com/benkrasnow/MakitaBatteryPowerSupply/blob/main/case_opened.jpg?raw=true)
